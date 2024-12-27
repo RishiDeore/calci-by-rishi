@@ -4,7 +4,7 @@
 
 
 ### Screens
-![App Screenshot](assets/images/calc.png)
+![App Screenshot](assets/images/calcbyrishi.png)
 
 ---
 
